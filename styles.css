@@ -1,0 +1,21 @@
+.mirrorContainer {
+    display: flex;
+  
+
+}
+
+.textbox {
+    width: 50%;
+    border-radius: 5%;
+    min-height: 20px;
+    word-wrap: break-word;
+    
+}
+
+.blue {
+    border: 2px solid blue;
+}
+
+.red {
+    border: 2px solid red;
+}
